@@ -1,0 +1,65 @@
+.react-table {
+margin-top: 50px;
+}
+.rt-filter{
+    width: 60%;
+    max-width: 60%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+table{
+    width: 60%;
+    max-width: 60%;
+    margin: 0 auto;
+    border: 1px solid #eee;
+}
+th,
+td {
+    padding: .75rem;
+    vertical-align: top;
+    text-align: center;
+    border-top: 1px solid #eee;
+}
+thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #eee;
+}
+tbody + tbody {
+    border-top: 2px solid #eee;
+}
+
+
+.rt-pagination{
+    width: 30%;
+    max-width: 30%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.previous-page{
+    float: left;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.next-page{
+    float: right;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+nav {
+    color: black;
+  }
+  .nav-wrapper {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  shorten-error {
+    margin-top: 20px;
+    color: red;
+  }
+
