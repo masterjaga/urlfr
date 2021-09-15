@@ -33,7 +33,7 @@ rm -rf .git && git init
 ```
 
 #### Run back end
-Check repository https://github.com/rakeshkumargupta/url-shortener-backend for running back end NodeJS api.
+Check out repository https://github.com/rakeshkumargupta/url-shortener-backend for running back end NodeJS api.
 
 
 #### Run front end
